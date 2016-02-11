@@ -71,12 +71,11 @@
      <Compile Include="Assets\Cardboard\Scripts\VRDevices\CardboardAndroidDevice.cs" />
      <Compile Include="Assets\Cardboard\Scripts\VRDevices\CardboardiOSDevice.cs" />
      <Compile Include="Assets\Cardboard\Scripts\VRDevices\UnityEditorDevice.cs" />
-     <Compile Include="Assets\HyunSung\scripts\EasyLevel.cs" />
      <Compile Include="Assets\HyunSung\scripts\GageCtrl.cs" />
-     <Compile Include="Assets\HyunSung\scripts\HardLevel.cs" />
      <Compile Include="Assets\HyunSung\scripts\LevelCtrl.cs" />
      <Compile Include="Assets\HyunSung\scripts\LoadLevel.cs" />
-     <Compile Include="Assets\HyunSung\scripts\NomalLevel.cs" />
+     <Compile Include="Assets\HyunSung\scripts\NoteBuild.cs" />
+     <Compile Include="Assets\HyunSung\scripts\NoteCtrl.cs" />
      <None Include="Assets\Cardboard\Resources\SkyboxMesh.shader" />
      <None Include="Assets\Cardboard\Distortion\CardboardDistortion.cginc" />
      <None Include="Assets\Cardboard\Resources\UnlitTexture.shader" />

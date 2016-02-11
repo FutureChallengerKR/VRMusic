@@ -51,7 +51,8 @@ public class GageCtrl : MonoBehaviour {
 		isCaptured = gazedAt;
 	}
 	public void playMs(){
-		bgm.PlayOneShot (musik1, 1.0f);
+		bgm.PlayOneShot (musik1, 0.3f);
 
 	}
 }
+//
