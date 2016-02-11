@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/HyunSung/MunuScene.unity
+  isLoaded: 1
+  isActive: 1
